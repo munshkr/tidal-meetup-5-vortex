@@ -20,10 +20,10 @@ class: center, middle
 # Topics
 
 1. New features
-2. New functions
-3. Other changes
-4. Mini-notation
-5. Challenges
+2. Other changes
+3. Mini-notation
+4. Challenges
+5. Ideas
 6. Next steps
 
 ---
@@ -37,7 +37,7 @@ class: center, middle
 
 ---
 
-# New functions
+# Functions
 
 ### Concatenation
 
@@ -58,7 +58,7 @@ class: center, middle
 
 ---
 
-# New functions
+# Functions
 
 ## Randomness
 
@@ -76,7 +76,7 @@ Implemented randomness functions, same algorithm/behavior as in Tidal.
 
 ---
 
-# New functions
+# Functions
 
 ## Alteration
 
@@ -89,7 +89,7 @@ Implemented randomness functions, same algorithm/behavior as in Tidal.
 
 ---
 
-# New functions
+# Functions
 
 ## Arithmetic operators
 
